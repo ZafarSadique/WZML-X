@@ -143,11 +143,19 @@ EQUAL_SPLITS = False
 MEDIA_GROUP = False
 USER_TRANSMISSION = True
 HYBRID_LEECH = True
-LEECH_PREFIX = ""
+LEECH_PREFIX = "@Movies_Corner20"
 LEECH_SUFFIX = ""
-LEECH_FONT = ""
-LEECH_CAPTION = ""
-LEECH_DUMP_CHAT = ""
+LEECH_FONT = "Bold"
+LEECH_CAPTION = "<b>{filename}
+
+🎬 {quality} \|⌛ {duration}
+🎙️ {languages}
+💬 {subtitles}
+
+📂ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ: @CornersOfficial
+🎬ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ:@Request_Corner
+♻️ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: @StreamXverse </b>"
+LEECH_DUMP_CHAT = "-1002332171379"
 THUMBNAIL_LAYOUT = ""
 
 # qBittorrent/Aria2c
